@@ -1,2 +1,4 @@
 # vacuum_cleaner_teardown
-Teardown of a home robot vacuum cleaner equipped with LiDAR
+A home vacuum robot cleaner teardown
+
+![Vacuum cleaner top view](./vacuum_cleaner_top.webp)
